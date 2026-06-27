@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Kayan: The Gulf Super App",
+  "description": "An elite super app providing luxury home services, premium shopping, and classifieds, tailored for the unique Gulf market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
